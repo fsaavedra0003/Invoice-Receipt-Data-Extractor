@@ -1,0 +1,1 @@
+Automate the extraction of structured data (e.g., vendor name, date, total, tax, line items) from scanned or PDF invoices/receipts using NLP with Hugging Face Transformers.
