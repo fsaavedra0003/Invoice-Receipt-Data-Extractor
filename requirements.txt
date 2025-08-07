@@ -1,0 +1,6 @@
+transformers
+torch
+timm
+torchvision
+Pillow
+gradio
